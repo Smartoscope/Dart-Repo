@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="719384ea-3938-461a-9b66-6c439493450d" name="Smartoscope">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
